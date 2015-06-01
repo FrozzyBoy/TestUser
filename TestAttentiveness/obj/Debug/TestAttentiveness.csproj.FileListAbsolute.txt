@@ -1,0 +1,10 @@
+D:\temp\TestAttentiveness\TestAttentiveness\bin\Debug\TestAttentiveness.exe.config
+D:\temp\TestAttentiveness\TestAttentiveness\bin\Debug\TestAttentiveness.exe
+D:\temp\TestAttentiveness\TestAttentiveness\bin\Debug\TestAttentiveness.pdb
+D:\temp\TestAttentiveness\TestAttentiveness\obj\Debug\TestAttentiveness.csprojResolveAssemblyReference.cache
+D:\temp\TestAttentiveness\TestAttentiveness\obj\Debug\TestAttentiveness.MainForm.resources
+D:\temp\TestAttentiveness\TestAttentiveness\obj\Debug\TestAttentiveness.Properties.Resources.resources
+D:\temp\TestAttentiveness\TestAttentiveness\obj\Debug\TestAttentiveness.TestForm.resources
+D:\temp\TestAttentiveness\TestAttentiveness\obj\Debug\TestAttentiveness.csproj.GenerateResource.Cache
+D:\temp\TestAttentiveness\TestAttentiveness\obj\Debug\TestAttentiveness.exe
+D:\temp\TestAttentiveness\TestAttentiveness\obj\Debug\TestAttentiveness.pdb
